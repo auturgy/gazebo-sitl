@@ -9,7 +9,7 @@ A ROS-independent Gazebo plugin for Ardupilot's SITL.
 
 ## Requirements ##
     * Python 2.7+ (to generate mavlink headers)
-    * MavProxy (https://github.com/Dronecode/MAVProxy)
+    * MavProxy (https://github.com/ArduPilot/MAVProxy)
     * Ardupilot (https://github.com/ArduPilot/ardupilot)
 
 ## Build and Install ##
